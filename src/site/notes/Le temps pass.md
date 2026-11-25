@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/le-temps-pass/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/le-temps-pass/","created":"2026-11-24T21:03:31.546-05:00","updated":"2026-11-24T21:04:28.189-05:00","dg-note-properties":{}}
 ---
 
 81,7. C’est l’espérance de vie moyenne d’un être humain. Sur ces années, nous passons environ un tiers de notre temps à dormir, un autre tiers à l’école ou au travail, ce qui ne nous laisse qu’un dernier tiers… sans même compter le temps consacré aux activités essentielles comme les transports, les tâches ménagères ou les repas.  
