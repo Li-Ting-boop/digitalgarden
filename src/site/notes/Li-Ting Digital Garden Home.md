@@ -4,7 +4,9 @@
 
 my notes
 
-[[TikTok — le temps passe, te laissant, toi et tes rêves, derrière\|TikTok — le temps passe, te laissant, toi et tes rêves, derrière]]
+[[Le temps pass\|Le temps pass]]
+
+
 [[Grades\|Grades]]
 [[« Tu ne passeras pas ! »\|« Tu ne passeras pas ! »]]
 [[Vivre la démocratie!\|Vivre la démocratie!]]
